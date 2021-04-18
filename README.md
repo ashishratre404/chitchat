@@ -1,8 +1,6 @@
 # chitchat
 
-Live Chatting website
-
-tech stacks: html css javascript express
+Live Chatting website using javaScript expressJs javascript and Socket.io
 
 
 Demo: https://chitchat-live-chat-platform.herokuapp.com/
